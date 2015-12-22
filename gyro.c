@@ -12,8 +12,8 @@
 void setup() {                // resets the board
   pinMode(13, OUTPUT);        // initializes Digital Pin 13 as an output
 }
-  int speed = 100;            // int = var so, variable 'speed' has value 100ms
-  int slowing = 1;            // variable 'slowing' has value 1 (YES) 
+  int speed = 100;            // variable 'speed' has value 100ms
+  int slowing = 1;            // variable 'slowing' has value 1 (1 can be replaced by the boolean 'true') 
 
 
 void loop() {                // Initiates a loop  
