@@ -11,6 +11,7 @@ The Arduino Integrated Development Environment is simple and easy to use! Downlo
 
 ## Setup
 * If you're an Arduino first-timer, follow the setup instructions for your partiular operating system [here](https://www.arduino.cc/en/Guide/HomePage).
+* (...[HERE](https://www.arduino.cc/en/Guide/MacOSX) is a handy set of installation info for Mac OS X)
 * With Arduino board in hand, push one metallic 'leg' of the LED light into DIGITAL PIN 13 and let the other 'leg' pop into the neighboring pin.
 * Make sure your Arduino is tethered to your laptop via USB connector, and that the Ardunio IDE is open. Hit Cmd+N to create NEW instructions for it, and paste the Gyro code in!
 * Hit UPLOAD and watch the magic!
@@ -22,4 +23,11 @@ When we send these Off/On signals at a certain pace, the LED gives us the illusi
 
 ![Oh So Gyro](https://upload.wikimedia.org/wikipedia/commons/d/d5/Gyroscope_operation.gif)
 
-[HERE](https://www.arduino.cc/en/Guide/MacOSX) is a handy set of installation info for Mac OS X
+<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Gyro</span>, by <a href="https://github.com/DhiMalo/GyroSpiro" rel="dct:creator"><span property="dct:title">Aheri Stanford-Asiyo</span></a>), is free of known copyright restrictions.
+</p>
