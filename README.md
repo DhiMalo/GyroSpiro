@@ -1,5 +1,5 @@
 # GyroSpiro
-A digital Whirlygig written in C
+####<strong> <blue> A digital Whirlygig written in C </blue> </strong>
 
 ## Materials 
 ###(1) [An Arduino](www.arduino.cc)
