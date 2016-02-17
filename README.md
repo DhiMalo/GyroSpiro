@@ -17,7 +17,7 @@ The Arduino Integrated Development Environment is simple and easy to use! Downlo
 * Hit UPLOAD and watch the magic!
 
 ###Details
-The Arduino has input channels, output channels, and power.  The input channels, or PINs, are conductive metallic pins awaiting electronic data - in this case in binary 1111101010100101010.  We can send 0 and 1 signals with the command digitalWrite LOW and digitalWrite HIGH.  The LED receives these as Off and On signals. 
+The Arduino has input channels, output channels, and power.  The input channels, or PINs, are conductive metallic pins awaiting electronic data - in this case in binary 1111101010100101010.  We can send 0 and 1 signals using C with the commands digitalWrite LOW and digitalWrite HIGH.  The LED receives these as Off and On signals. 
 
 When we send these Off/On signals at a certain pace, the LED gives us the illusion of spinning like a gyroscope does.
 
