@@ -2,12 +2,12 @@
 <strong> <blue> A Digital Whirlygig written in C </blue> </strong>
 
 ## Materials 
-(1) [An Arduino](www.arduino.cc)
+(1) [An Arduino](www.arduino.cc)<br>
 ![Uno](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/UnoConnections.jpg/220px-UnoConnections.jpg)
-<br>(2) A single LED
+<br>(2) A single LED<br>
 ![LED](http://www.topledlight.com/images/l/201009/12844380890.jpg)
-<br>(3) The Arduino IDE
-The Arduino Integrated Development Environment is simple and easy to use! Download it [here](https://www.arduino.cc/en/Main/OldSoftwareReleases) 
+<br>(3) The Arduino IDE<br>
+<em>The Arduino Integrated Development Environment is simple and easy to use! Download it [here](https://www.arduino.cc/en/Main/OldSoftwareReleases)</em>
 
 ## Setup
 * If you're an Arduino first-timer, follow the setup instructions for your partiular operating system [here](https://www.arduino.cc/en/Guide/HomePage).
