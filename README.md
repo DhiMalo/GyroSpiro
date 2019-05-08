@@ -1,12 +1,12 @@
 # GyroSpiro
-####<strong> <blue> A Digital Whirlygig written in C </blue> </strong>
+<strong> <blue> A Digital Whirlygig written in C </blue> </strong>
 
 ## Materials 
-###(1) [An Arduino](www.arduino.cc)
+(1) [An Arduino](www.arduino.cc)
 ![Uno](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/UnoConnections.jpg/220px-UnoConnections.jpg)
-###(2) A single LED
+<br>(2) A single LED
 ![LED](http://www.topledlight.com/images/l/201009/12844380890.jpg)
-###(3) The Arduino IDE
+<br>(3) The Arduino IDE
 The Arduino Integrated Development Environment is simple and easy to use! Download it [here](https://www.arduino.cc/en/Main/OldSoftwareReleases) 
 
 ## Setup
@@ -16,7 +16,7 @@ The Arduino Integrated Development Environment is simple and easy to use! Downlo
 * Make sure your Arduino is tethered to your laptop via USB connector, and that the Ardunio IDE is open. Hit Cmd+N to create NEW instructions for it, and paste the Gyro code in!
 * Hit UPLOAD and watch the magic!
 
-###Details
+### Details
 The Arduino has input channels, output channels, and power.  The input channels, or PINs, are conductive metallic pins awaiting electronic data - in this case in binary 1111101010100101010.  We can send 0 and 1 signals using C with the commands digitalWrite LOW and digitalWrite HIGH.  The LED receives these as Off and On signals. 
 
 When we send these Off/On signals at a certain pace, the LED gives us the illusion of spinning like a gyroscope does.
